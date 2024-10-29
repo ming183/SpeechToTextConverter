@@ -19,6 +19,6 @@ def audio_to_text(audio_file):
 
 if __name__ == "__main__":
     # Example usage
-    audio_file = "C:\\Users\\.wav"  # Replace with your audio file path
+    audio_file = "C:\\Users\\1.wav"  # Replace with your audio file path
     result = audio_to_text(audio_file)
     print("Text from audio:", result)
